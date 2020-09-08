@@ -1,0 +1,75 @@
+#a {
+  background: hsl(0, 70%, 70%);
+}
+
+#b {
+  background: hsl(40, 70%, 70%);
+}
+
+#c {
+  background: hsl(80, 70%, 70%);
+}
+
+#d {
+  background: hsl(120, 70%, 70%);
+}
+
+#e {
+  background: hsl(160, 70%, 70%);
+}
+
+#f {
+  background: hsl(200, 70%, 70%);
+}
+
+#g {
+  background: hsl(240, 70%, 70%);
+}
+
+#h {
+  background: hsl(280, 70%, 70%);
+}
+
+#i {
+  background: hsl(320, 70%, 70%);
+}
+
+
+
+@media only screen and (min-width:768px){
+  #a {
+    background: hsl(0, 70%, 40%);
+  }
+
+  #b {
+    background: hsl(40, 70%, 40%);
+  }
+
+  #c {
+    background: hsl(80, 70%, 40%);
+  }
+
+  #d {
+    background: hsl(120, 70%, 40%);
+  }
+
+  #e {
+    background: hsl(160, 70%, 40%);
+  }
+
+  #f {
+    background: hsl(200, 70%, 40%);
+  }
+
+  #g {
+    background: hsl(240, 70%, 40%);
+  }
+
+  #h {
+    background: hsl(280, 70%, 40%);
+  }
+
+  #i {
+    background: hsl(320, 70%, 40%);
+  }
+}

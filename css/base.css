@@ -1,0 +1,6 @@
+div {
+  border: 1px solid rgba(0, 0, 0, 0.618);
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}
