@@ -1,9 +1,6 @@
 div {
   border: 1px solid rgba(0, 0, 0, 0.618);
-  background: gray;
-  display: flex;
   justify-content: center;
   align-items: center;
-  box-sizing: border-box;
+  font-size: larger;
 }
-
