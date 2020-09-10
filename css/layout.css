@@ -3,11 +3,6 @@ body {
   width: 480px;
 }
 
-div {
-  display: flex;
-  box-sizing: border-box;
-}
-
 #a, #b, #c, #d, #i {
   width: 480px;
 }

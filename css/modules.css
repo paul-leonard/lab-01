@@ -35,8 +35,7 @@
 }
 
 
-
-@media only screen and (min-width:768px){
+@media only screen and (min-width:490px) and (max-width:768px){
   #a {
     background: hsl(0, 70%, 40%);
   }
@@ -71,5 +70,49 @@
 
   #i {
     background: hsl(320, 70%, 40%);
+  }
+}
+
+
+@media only screen and (min-width:768px){
+  * {
+    color: white;
+    font-size: 20pt;
+  }
+
+  #a {
+    background: hsl(0, 70%, 30%);
+  }
+
+  #b {
+    background: hsl(40, 70%, 30%);
+  }
+
+  #c {
+    background: hsl(80, 70%, 30%);
+  }
+
+  #d {
+    background: hsl(120, 70%, 30%);
+  }
+
+  #e {
+    background: hsl(160, 70%, 30%);
+  }
+
+  #f {
+    background: hsl(200, 70%, 30%);
+  }
+
+  #g {
+    background: hsl(240, 70%, 30%);
+  }
+
+  #h {
+    background: hsl(280, 70%, 30%);
+  }
+
+  #i {
+    background: hsl(320, 70%, 30%);
   }
 }
