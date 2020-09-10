@@ -12,8 +12,8 @@ Actual time: about 10 minutes
 
 Feature: transition to grid from flex
 Estimate: 80 min
-Times: 12:35-12:50; 1:45-
-Actual time: 
+Times: 12:35-12:50; 1:45-2:50
+Actual time: 1 hour 20 minutes
 
 Resources:
 - [Defining Color in CSS](http://web.simmons.edu/~grovesd/comm244/notes/week3/css-colors#rgba)
