@@ -35,7 +35,7 @@
 }
 
 
-@media only screen and (min-width:490px) and (max-width:768px){
+@media only screen and (min-width:768px) and (max-width:960px){
   #a {
     background: hsl(0, 70%, 40%);
   }
@@ -74,7 +74,7 @@
 }
 
 
-@media only screen and (min-width:768px){
+@media only screen and (min-width:960px){
   * {
     color: white;
     font-size: 20pt;
